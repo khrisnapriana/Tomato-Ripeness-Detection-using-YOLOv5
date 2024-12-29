@@ -1,1 +1,1 @@
-# Tomato-Ripeness-Detection-using-YOLOv5
+# Tomato Ripeness Detection using YOLOv5
